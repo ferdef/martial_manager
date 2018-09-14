@@ -1,7 +1,3 @@
-# Martial Manager
-
-Martial Arts School Managing System
-
 # README
 
 This README would normally document whatever steps are necessary to get the
